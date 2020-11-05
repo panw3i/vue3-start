@@ -1,7 +1,7 @@
 <template>
   <h1>{{ count }}</h1>
   <h1>{{ double }}</h1>
-  <button @click="increase">+1</button>
+  <button @click="increase" style="margin-bottom: 15px">+1</button>
 </template>
 
 <script>

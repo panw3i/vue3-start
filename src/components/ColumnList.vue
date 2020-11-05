@@ -5,6 +5,7 @@
 </template>
 
 <script lang="ts">
+// eslint-disable-next-line no-unused-vars
 import {defineComponent,PropType} from "vue"
 
 export interface ColumnProps {
